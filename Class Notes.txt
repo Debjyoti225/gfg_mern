@@ -1,0 +1,41 @@
+Day 1:
+
+commands to add ssh keys to github profile:
+1. ssh-keygen -t ed25519 -C "barmandebjyoti225@gmail.com"
+   or
+   ssh-keygen -t rsa -b 4096 -C "barmandebjyoti225@gmail.com"
+2. cd ~/.ssh
+3. ls (notice the public key with.pub extension)
+4. cat public_file.pub
+5. Paste the generated ssh key in the profile section of github.
+voila! SSH key have been successfully added to your profile.
+
+Best Documentation: https://phoenixnap.com/kb/git-clone-ssh
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Day 2:
+
+- code . : launches the VS Code using bash terminal
+
+- Port Number(eg, :5500) : around 65000 ports exist. IP address is kind of a physical address and the port number kind of resembles the room number(gateway).
+
+- Launch HTML Boiler Plate: Press '!' followed by enter.
+
+- Search engines look for 'Meta' tags to rank the pages. (SEO - unpaid/organic page growth & SEM - paid page growth)
+
+- Block Level and Line Level Elements:
+	Block Level elements will take the entire line width even if there is a line break. eg. div.
+	In case of Line level element: It takes up space only upto the width of the content. Next elements will be placed just next to it if there is space. eg: img.
+
+- Requestly.io : used to modify http request response headers.
+
+- Header, Footer, Nav, Main, Article tags are called semantic tags.
+
+- CSS Priority: Inline > Internal > External
+
+- box-sizing: border-box; This property ensures every container in the HTML is assigned the border-box property 
+						  even for the elements that have content-box property assigned as default.
+
+- Class Repository Link: https://github.com/Sumit-Kap/MERN_gfg_offline
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
